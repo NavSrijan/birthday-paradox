@@ -2,4 +2,4 @@
 Simulating the birthday paradox
 
 ## Graph 
-![graph](https://imgur.com/54qNLvV)
+![img](img/img.png)
